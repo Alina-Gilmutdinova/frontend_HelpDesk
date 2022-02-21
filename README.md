@@ -1,5 +1,5 @@
 # HelpDesk_frontend 
-Backend -  https://heroku-account-alina.herokuapp.com/
+Backend -  https://github.com/Alina-Gilmutdinova/HelpDesk
 
 ссылка gh-pages  - https://alina-gilmutdinova.github.io/frontend_HelpDesk/
 
